@@ -5,15 +5,22 @@ hi
 dude 
 how r u
 
-class test
+class test_demo
+{
+public static void main(String [] args)
 {
 
 System.out.println("add public static void main");
-
+}
 }
 
 
-class testing{
+class test_deomo2{
 String hello;
-String Hi;
+String Hi2;
+
+if(helo.equals(hi)
+{
+\\do something
+}
 }
