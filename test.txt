@@ -5,6 +5,12 @@ hi
 dude 
 how r u
 
+class test
+{
+
+System.out.println("add public static void main");
+
+}
 
 
 class testing{
