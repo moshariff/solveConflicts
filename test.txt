@@ -14,11 +14,12 @@ system.out.println("also sub class");
 
 class test_demo
 {
-public static void main(String [] args)
+public static final void main(String [] args)
 {
-
+System.out.println("this line wqas added by me");
 System.out.println("add public static void main");
 }
+/*comments added*/
 }
 
 
