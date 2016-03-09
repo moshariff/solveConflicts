@@ -4,6 +4,13 @@ are we testing ?
 hi
 dude 
 how r u
+class main
+{
+system.out.println("i have entered main class");
+}
+class sub{
+system.out.println("also sub class");
+}
 
 class test
 {
