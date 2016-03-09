@@ -7,15 +7,7 @@ how r u
 
 
 
-wat r u doing now
-?
-how r u macha
-
-wat r u yes i m doing now
-aaa ?
-
-nothing much 
-I'm doing good.
-How you doing?
-
-yeah bro
+class testing{
+String hello;
+String Hi;
+}
