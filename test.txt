@@ -12,6 +12,11 @@ System.out.println("add public static void main");
 
 }
 
+
+wat r u doing now
+?
+how r u macha
+
 wat r u yes i m doing now
 aaa ?
 
